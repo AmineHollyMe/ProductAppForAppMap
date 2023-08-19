@@ -1,0 +1,4 @@
+name: "emanager"
+appmap_dir: "target/appmap"
+packages:
+- path: "test.app.emanager"
